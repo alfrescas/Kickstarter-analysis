@@ -1,5 +1,6 @@
 # An Analysis  of Kickstarter Campaigns
-Louise, the theater that was most successful was in Great Britain. Below is a chart that shows this conculsion to be true
+Louise, the theater that was most successful was in Great Britain. How I was able to obtain this, is by filtering the data to provide the information by countries, from there is where Great Britain showed to be the leader in theater. Below is a chart that shows this conculsion to be true
+
 <img width="244" alt="Parent Category Outcomes Chart" src="https://user-images.githubusercontent.com/107371010/174494028-961ba7e4-0629-4c7c-9ce0-7a3b3b28600b.png">
 
 The months that the play should will likely have a greater success launch rate is in May and June, as shown in the Outcome Based on Launch Date chart below.
